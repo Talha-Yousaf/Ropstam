@@ -1,8 +1,3 @@
-<img src="https://github.com/develotechnologies/ReactNativeBoilerPlate/blob/Main/src/assets/images/demo.gif"/>
-
-# Boiler Plate for React Native Projects
-Our aim is to reduce time React Native Developers spend to configure and structure commonly used libraries including React-Navigation, Redux, Handling Authentication using Redux to switch between Navigation Stacks.
-
 Follow the steps below to run the project
 
 1.  Clone Master Branch
@@ -19,15 +14,6 @@ Follow the steps below to run the project
 
 <b>Android</b>
 > npx react-native run-android
-
-<b>IOS</b>
-> cd ios/
-
-> pod install
-
-> cd ..
-
-> npx react-native run-ios
 
 
 <b>Added Features</b>
